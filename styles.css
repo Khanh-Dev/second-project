@@ -1,0 +1,35 @@
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    line-height: 3rem;
+    margin: 2rem;
+    background-color: hsl(0, 0, 98%);
+}
+
+.header {
+    
+    max-width: 67.5rem;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.first-header {
+    font-weight: 200;
+}
+
+.second-header {
+    font-weight: 600;
+}
+
+.third-header {
+    font-weight: 400;
+}
+
+
